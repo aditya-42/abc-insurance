@@ -1,0 +1,77 @@
+{
+    "nav_home":"Accueil",
+    "nav_product":"Produit",
+    "nav_about":"Sur nous",
+    "nav_contact":"Contacter",
+
+    "home-title": "Restez assuré. Toujours!",
+    "home-product": "Nos produits",
+    "home-prod-1":"Assurance auto",
+    "home-learn-more":"En savoir plus",
+    "home-prod-1-desc":"Les accidents se produisent, mais votre tranquillité d'esprit ne devrait pas en souffrir. Chez ABC Assurance, nous sommes plus qu'une couverture; nous sommes votre bouclier sur la route. Voici pourquoi des milliers de personnes nous font confiance et nous croyons que cela ne devrait pas se faire à un prix supérieur.",
+    "home-prod-2":"Assurance habitation",
+    "home-prod-2-desc":"Votre maison est plus que des briques et des poutres; c'est votre sanctuaire. Chez ABC Assurance, nous comprenons l'importance de votre refuge. Notre assurance habitation est conçue pour protéger non seulement votre propriété, mais les innombrables souvenirs qu'elle contient.",
+    "home-prod-3":"Assurance-vie",
+    "home-prod-3-desc":"La vie est un voyage rempli de rebondissements, et vos proches méritent l'assurance qu'ils sont protégés quoi qu'il arrive. Chez ABC Assurance, nous comprenons chaque moment qui vient avec la sécurisation de l'avenir.",
+
+    "home-why-us":"Pourquoi nous",
+    "home-why-us-desc":"Forts de décennies d'expérience dans l'industrie, nous apportons une mine de connaissances. Notre équipe chevronnée de professionnels de l'assurance se consacre à vous guider à travers les subtilités de l'assurance, vous assurant de prendre des décisions éclairées qui protègent ce qui compte le plus.",
+
+
+    "car-insurance-title":"Assurance-automobile",
+    "car-insurance-save":"Économisez 10% en achetant en ligne",
+    "car-insurance-left":"Prestations",
+    "car-insurance-left-desc":"Préparez-vous pour des économies imbattables! Chez ABC Assurance, nous vous mettons dans le siège du conducteur de l'épargne. Sécurisez votre trajet avec nous et profitez d'une réduction de 10 % sur votre prime d’assurance auto. Voici pourquoi nous choisir est gagnant-gagnant pour votre portefeuille :",
+    "car-insurance-left-desc-1":"Drive Secure, payez moins cher",
+    "car-insurance-left-desc-2":"Valeur imbattable",
+    "car-insurance-left-desc-3":"Récompenses pour conducteurs prudents",
+    "car-insurance-left-desc-4":"Procédure sans tracas",
+    "car-insurance-left-cta":"Obtenir un devis en ligne",
+
+
+    "car-insurance-includes-title":"Notre assurance comprend",
+
+    "car-insurance-includes-prod1":"Protection sur mesure",
+    "car-insurance-includes-desc1":"Votre voiture est unique, et donc devrait être votre couverture. Nos politiques sont conçues pour répondre à vos besoins et vous protègent à chaque voyage.",
+
+    "car-insurance-includes-prod2":"Couverture complète",
+    "car-insurance-includes-desc2":"Des accrochages aux accidents imprévus, nos plans complets vous couvrent. Conduisez en sachant que vous êtes protégé contre l’inattendu.",
+
+    "car-insurance-includes-prod3":"Soutien national",
+    "car-insurance-includes-desc3":"Où que la route vous mène, notre vaste réseau vous assure que vous n’êtes jamais seul. Notre soutien 24/7 est juste un appel loin, prêt à vous aider n’importe où.",
+
+    "car-insurance-includes-prod4":"Récompenses pour conducteurs prudents",
+    "car-insurance-includes-desc4":"Les bons conducteurs méritent d'être récompensés. Grâce à nos incitatifs pour la sécurité des conducteurs, vous pouvez économiser davantage tout en conduisant en toute confiance.",
+
+    "car-insurance-includes-prod5":"Primes abordables",
+    "car-insurance-includes-desc5":"Une couverture de qualité n'a pas à vous ruiner. Profitez de primes concurrentielles qui vous en donnent pour votre argent.",
+
+    "car-insurance-includes-prod6":"Satisfaction Garantie",
+    "car-insurance-includes-desc6":"Votre satisfaction est notre succès. Rejoignez les rangs de clients satisfaits qui ont connu la différence.",
+
+
+    "about-us-title":"A propos de nous",
+    "about-us-desc1":"Chez ABC Assurance, nous allons au-delà d'être un fournisseur d'assurance; nous sommes votre partenaire dans la navigation des incertitudes de la vie. Joignez-vous aux milliers de personnes qui nous ont choisis pour l'assurance complète, fiable et axée sur le client.",
+    "about-us-desc2":"Forts de décennies d'expérience dans l'industrie, nous apportons une mine de connaissances. Notre équipe chevronnée de professionnels de l'assurance se consacre à vous guider à travers les subtilités de l'assurance, en vous assurant de prendre des décisions éclairées qui protègent ce qui compte le plus.",
+    "about-us-desc3":"Votre confiance est notre atout le plus précieux. Nous opérons avec transparence, en veillant à ce que vous compreniez votre couverture, vos conditions et vos avantages. Notre objectif est de construire des relations durables basées sur la confiance et la fiabilité.Prêt à se lancer dans un voyage de protection? Explorez notre gamme de solutions d'assurance dès aujourd'hui. Votre tranquillité d'esprit, notre promesse.",
+
+    "contact-us-title":"Besoin de parler avec nous? Voici comment",
+
+    "contact-us-title-col1":"En ligne",
+    "contact-us-title-col1-desc":"Chattez avec nous. Nos représentants de support sont toujours là pour vous aider 24x7",
+    "contact-us-title-col1-cta":"Discuter avec nous!",
+
+    "contact-us-title-col2":"Appelez-nous",
+    "contact-us-title-col2-call":"Appelez-nous sur",
+    "contact-us-title-col2-number":"+1-437-XXX-XXXX",
+    "contact-us-title-col2-weekday":"Du lundi au vendredi: de 7 h à 18 h",
+    "contact-us-title-col2-weekends":"samedi-dimanche: de 7 h à 15 h",
+
+    "login-title":"Connectez-vous à notre portail sécurisé",
+    "login-col1-title":"Utilisateur existant",
+    "login-col1-login":"Identifiant de connexion",
+    "login-col1-password":"Mot de passe",
+    "login-col2-title":"Nouvel utilisateur",
+    "login-col2-desc":"S'inscrire en quelques étapes faciles",
+    "login-col2-cta":"Enregistrer"
+}

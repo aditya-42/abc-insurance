@@ -1,0 +1,27 @@
+.vertical{
+    border-right:1px solid #000;
+    height:200px;
+}
+
+.two-col{
+    margin-bottom: 5vw;
+}
+.first{
+    padding-left: 12vw !important;
+}
+
+
+@media screen and (max-width: 768px) {
+    .vertical {
+        border-right:0px;
+        border-bottom:1px solid #000;
+        width:500px;
+        margin: 20px 0 20px 0;
+        
+    }
+
+    .first{
+        padding-left: 0vw !important;
+    }
+    }
+    

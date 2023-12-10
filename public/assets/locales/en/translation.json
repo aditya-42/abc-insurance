@@ -1,0 +1,78 @@
+{
+    "nav_home":"Home",
+    "nav_product":"Product",
+    "nav_about":"About Us",
+    "nav_contact":"Contact",
+
+    "home-title": "Stay Insured. Always!",
+    "home-product": "Our Products",
+    "home-prod-1":"Car Insurance",
+    "home-learn-more":"Learn more",
+    "home-prod-1-desc":"Accidents happen, but your peace of mind shouldn't take a hit. At ABC Insurance, we're more than just coverage; we're your shield on the road. Here's why thousands trust us and we believe it shouldn't come at a premium price",
+    "home-prod-2":"Home Insurance",
+    "home-prod-2-desc":"Your home is more than bricks and beams; it's your sanctuary. At ABC Insurance, we understand the significance of your haven. Our Home Insurance is crafted to safeguard not just your property, but the countless memories within.",
+    "home-prod-3":"Life Insurance",
+    "home-prod-3-desc":"Life is a journey filled with twists and turns, and your loved ones deserve the assurance that they are protected no matter what. At ABC Insurance, we understand every moment that comes with securing the future.",
+
+    "home-why-us":"Why us",
+    "home-why-us-desc":"Backed by decades of industry experience, we bring a wealth of knowledge to the table. Our seasoned team of insurance professionals is dedicated to guiding you through the intricacies of insurance, ensuring you make informed decisions that safeguard what matters most.",
+
+
+    "car-insurance-title":"Car Insurance",
+    "car-insurance-save":"Save 10% when purchased online.",
+    "car-insurance-left":"Benefits",
+    "car-insurance-left-desc":"Gear up for unbeatable savings! At ABC Insurance, we're putting you in the driver's seat of savings. Secure your ride with us and enjoy a flat 10% off on your car insurance premium. Here's why choosing us is a win-win for your wallet:",
+    "car-insurance-left-desc-1":"Drive Secure, Pay Less",
+    "car-insurance-left-desc-2":"Unbeatable Value",
+    "car-insurance-left-desc-3":"Safe Driver Rewards",
+    "car-insurance-left-desc-4":"Hassle-Free Process",
+    "car-insurance-left-cta":"Get quote online",
+
+
+    "car-insurance-includes-title":"Our insurance includes",
+
+    "car-insurance-includes-prod1":"Tailored Protection",
+    "car-insurance-includes-desc1":"Your car is unique, and so should be your coverage. Our policies are crafted to suit your needs, ensuring you're protected in every journey.",
+
+    "car-insurance-includes-prod2":"Comprehensive Coverage",
+    "car-insurance-includes-desc2":"From fender benders to unforeseen mishaps, our comprehensive plans have you covered. Drive assured knowing that you're protected against the unexpected.",
+
+    "car-insurance-includes-prod3":"Nationwide Support",
+    "car-insurance-includes-desc3":"Wherever the road takes you, our extensive network ensures you're never alone. Our 24/7 support is just a call away, ready to assist you anywhere.",
+
+    "car-insurance-includes-prod4":"Safe Driver Rewards",
+    "car-insurance-includes-desc4":"Good drivers deserve to be rewarded. With our safe driver incentives, you can save more while cruising confidently.",
+
+    "car-insurance-includes-prod5":"Affordable Premiums",
+    "car-insurance-includes-desc5":"Quality coverage doesn't have to break the bank. Enjoy competitive premiums that give you value for your money.",
+
+    "car-insurance-includes-prod6":"Satisfaction Guaranteed",
+    "car-insurance-includes-desc6":"Your satisfaction is our success. Join the ranks of satisfied customers who've experienced the difference.",
+
+    "about-us-title":"About us",
+    "about-us-desc1":"At ABC Insurance, we go beyond being an insurance provider; we're your partner in navigating life's uncertainties. Join the thousands who have chosen us for the assurance that comes with comprehensive, reliable, and customer-centric insurance.",
+    "about-us-desc2":"Backed by decades of industry experience, we bring a wealth of knowledge to the table. Our seasoned team of insurance professionals is dedicated to guiding you through the intricacies of insurance, ensuring you make informed decisions that safeguard what matters most.",
+    "about-us-desc3":"Your trust is our most valuable asset. We operate with transparency, ensuring you understand your coverage, terms, and benefits. Our goal is to build lasting relationships based on trust and reliability.Ready to embark on a journey of protection? Explore our range of insurance solutions today. Your peace of mind, our promise.",
+
+    "contact-us-title":"Need to talk with us? Here is how",
+
+    "contact-us-title-col1":"Online",
+    "contact-us-title-col1-desc":"Chat with us. Our support representatives are always there to assist you 24x7",
+    "contact-us-title-col1-cta":"Chat with us!",
+
+    "contact-us-title-col2":"Call us",
+    "contact-us-title-col2-call":"Call us on",
+    "contact-us-title-col2-number":"+1-437-XXX-XXXX",
+    "contact-us-title-col2-weekday":"Monday-Friday : 7 AM to 6 PM",
+    "contact-us-title-col2-weekends":"Saturday-Sunday : 7 AM to 3 PM",
+
+    "login-title":"Login to our secure portal",
+    "login-col1-title":"Existing User",
+    "login-col1-login":"Login ID",
+    "login-col1-password":"Password",
+    "login-col2-title":"New User",
+    "login-col2-desc":"Register in few easy steps",
+    "login-col2-cta":"Register"
+
+    
+}

@@ -1,0 +1,43 @@
+.footer{
+    margin-top: auto;
+    background-color: green;
+    display: flex;
+    justify-content: space-between;
+    height: 180px;
+    width: 100%;
+    align-items: center;
+}
+
+.footer-links a{
+    text-decoration: none;
+    color: white;
+}
+
+.footer-social a{
+    text-decoration: none;
+    color: white;
+}
+
+.footer-links{
+    display: flex;
+    flex-wrap: wrap;
+    width:25vw;
+    margin-left: 7vw;
+}
+
+.footer-social{
+    display: flex;
+    flex-wrap: wrap;
+    width:20vw;
+}
+.footer-links div{
+    padding: 10px;
+}
+
+.footer-social div{
+    padding: 10px;
+}
+
+.footer-social div a svg{
+    width: 90px;
+}
